@@ -21,4 +21,4 @@
 `MCP` : 위키백과
 
 # 참고 자료
-[유튜브]
+[유튜브](https://youtu.be/Zy7EXDONlTY?si=jYA4cGawb1srauL8)
